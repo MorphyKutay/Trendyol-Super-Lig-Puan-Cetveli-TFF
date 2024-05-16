@@ -1,7 +1,7 @@
 # Trendyol-Super-Lig-Puan-Cetveli-TFF
 Türkiye Futbol Federasyonu Trendyol Super Lig Puan Cetveli 
 
-**Required Libraries**
+**Required Libraries**;
 `pip3 install bs4`
 
 <img src="https://github.com/MorphyKutay/Trendyol-Super-Lig-Puan-Cetveli-TFF/blob/main/ss.png">
